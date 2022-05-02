@@ -9,7 +9,7 @@
 
 body { 
     background-color: red;
-    background-image: url("544750.jpg");
+    background-image: url("test.jpg");
 }
 
 
@@ -27,7 +27,21 @@ body {
 }
 
 #forgot{
-    color:darkblue;
     font-size: 14px;
     text-decoration: none;
+}
+
+
+#text {
+    font-size: 28px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: relative;
+
+}
+
+#text2 {
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: relative;
+
 }
